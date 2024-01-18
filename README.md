@@ -2,6 +2,7 @@
 
 [![An image of @adityasgithub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityasgithub)](https://holopin.io/@adityasgithub)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6a247884-7ebf-4d5d-b5c2-7a2c33e90616/deploy-status)](https://app.netlify.com/sites/chikoo9097/deploys)
+[![adityas-github's GitHub | Stats](https://stats.quine.sh/adityas-github/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=adityas-github)
 <!--
 **adityas-github/adityas-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

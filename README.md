@@ -1,9 +1,10 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-
+<div align="top">
 <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Aditya's+GitHub!&center=true&width=360&height=30">
-</p>
+</div>
+
 
 <div align="center">
 

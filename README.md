@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityas-github&label=Profile%20views&color=00ff00&style=plastic" alt="adityas-github" /> </p>
+
 [![An image of @adityasgithub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityasgithub)](https://holopin.io/@adityasgithub)
 
 [![adityas-github's GitHub | Stats](https://stats.quine.sh/adityas-github/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=adityas-github)

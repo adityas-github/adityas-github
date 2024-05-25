@@ -178,13 +178,6 @@
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
-<div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityas-github/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</div>
 <!--
 **adityas-github/adityas-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

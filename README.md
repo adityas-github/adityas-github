@@ -173,11 +173,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityas-github&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 
 
-  <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
+  ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adityas-github&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <!--
 **adityas-github/adityas-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

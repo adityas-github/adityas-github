@@ -181,6 +181,7 @@
   ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adityas-github&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![roadmap.sh](https://roadmap.sh/card/tall/673f293a5434bf319afd4930?variant=dark)](https://roadmap.sh)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

@@ -56,7 +56,7 @@ Multimodal classification model using **MRI images and speech data**, enhanced b
 
 ---
 
-#### 📚 [Library Management System](https://github.com/adityas-github/Library-Management-System)
+#### 📚 [Library Management System](https://github.com/eternoseeker/Library-Management-System)
 A robust desktop application built in **Java** using **OOP principles**, **MySQL** for data storage, and **Swing** for GUI.  
 > **Tech**: Java, JDBC, MySQL, Swing  
 > **Features**: Add/search/issue books, manage users, track overdue records

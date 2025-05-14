@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">Final-year CS student | AI & Open Source Enthusiast | Building practical solutions using code</h3>
+<h3 align="center">🎓 Final-year CS student | Full-Stack Java Developer & AI Enthusiast | Building practical, impactful solutions</h3>
 
 ---
 
@@ -50,24 +50,31 @@
 ### 📂 Featured Projects
 
 #### 🧠 [Parkinson’s Disease Detection](https://github.com/adityas-github/Parkinson-Detection)
-A multimodal classification model using **MRI images and speech data** with **Genetic Algorithm** for feature selection.  
-> **Tech**: PyTorch, OpenCV, GA, Deep CNN  
-> **Accuracy**: ~92%
+Multimodal classification model using **MRI images and speech data**, enhanced by a **Genetic Algorithm** for feature selection.  
+> **Tech**: PyTorch, OpenCV, Deep CNN, GA  
+> **Highlights**: 92% accuracy on test set
+
+---
+
+#### 📚 [Library Management System](https://github.com/adityas-github/Library-Management-System)
+A robust desktop application built in **Java** using **OOP principles**, **MySQL** for data storage, and **Swing** for GUI.  
+> **Tech**: Java, JDBC, MySQL, Swing  
+> **Features**: Add/search/issue books, manage users, track overdue records
 
 ---
 
 #### 🗃️ [SolveVault](https://github.com/adityas-github/SolveVault)
-A personal vault of coding problem solutions (LeetCode, GFG, HackerRank).  
+A personal DSA repository with structured solutions from platforms like LeetCode, HackerRank, and GFG.  
 > **Languages**: C++, Java, Python  
-> **Goal**: Improve DSA, keep consistent coding practice
+> **Focus**: Competitive programming and consistent problem solving
 
 ---
 
 #### 🌐 [Tinder Swipe Web Effect](https://github.com/adityas-github/Tinder-Web-Effect)
-Tinder-like swipe animation UI built with basic web technologies.  
-> Great for frontend animation learners.
+Frontend animation mimicking Tinder’s swipe UI, built with vanilla web technologies.  
+> **Tech**: HTML, CSS, JavaScript  
+> Great for practicing transitions and interactive UI development.
 
----
 
 ### 📊 GitHub Stats
 

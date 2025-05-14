@@ -4,7 +4,14 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+%7C+Deep+Learning+%7C+Web+Dev+%7C+Problem+Solving&center=true&width=750&height=30">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=🛠️+Crafting+Code+%7C+Solving+Problems+%7C+Building+the+Future" />
+
+
+
+
+
+
+
 </div>
 
 <p align="center">

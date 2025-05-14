@@ -8,8 +8,8 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aditya-m-399b94235" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/adityatmane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:adimane183@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
   <a href="https://leetcode.com/u/aditya183/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"></a>
 </p>
 
@@ -21,7 +21,7 @@
 - 🔬 Currently working on a **multimodal Parkinson’s Detection model** using **MRI and speech** data  
 - 🧠 Fascinated by Deep Learning, Heuristic Algorithms, and Human-AI interaction  
 - 👯 Open to collaborating on AI, automation, and impactful open-source projects  
-- 📫 You can reach me at: **your.email@gmail.com**
+- 📫 You can reach me at: **adimane183@gmail.com**
 
 ---
 

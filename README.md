@@ -22,8 +22,6 @@
 
 ---
 
-### 🚀 About Me
-
 - 🎓 Final-year Computer Science student based in Pune, India  
 - 🔬 Currently working on a **multimodal Parkinson’s Detection model** using **MRI and speech** data  
 - 🧠 Fascinated by Deep Learning, Heuristic Algorithms, and Human-AI interaction  
@@ -109,6 +107,9 @@ Frontend animation mimicking Tinder’s swipe UI, built with vanilla web technol
 
 ---
 
+### 😉: Programming Joke :
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 > ⚡ *“Consistency and curiosity will take you further than talent alone.”*
 
 ---
